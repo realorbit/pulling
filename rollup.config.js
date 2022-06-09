@@ -2,7 +2,7 @@ import typescript from 'typescript';
 import tsPlugin from 'rollup-plugin-typescript';
 import uglify from 'rollup-plugin-uglify';
 
-const prod = process.env.BUILD === 'production';
+const prod = false;
 
 export default [
   {
