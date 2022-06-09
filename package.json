@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodebb/pulling.git"
+    "url": "git+https://github.com/realorbit/pulling.git"
   },
   "keywords": [
     "pull",
