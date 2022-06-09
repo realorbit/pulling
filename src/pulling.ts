@@ -82,10 +82,10 @@ export default abstract class Pulling {
     this.slope = slope || 0.5;
     this.openPanelClass = openPanelClass || null;
 
-    assertArg(
+    /*assertArg(
       menu instanceof Element,
       '`menu` must be of type `Element`',
-    );
+    );*/
     assertArg(
       panel instanceof Element,
       '`panel` must be of type `Element`',
